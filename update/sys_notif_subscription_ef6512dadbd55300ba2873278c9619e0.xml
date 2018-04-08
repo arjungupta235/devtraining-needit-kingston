@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_notif_subscription">
+    <sys_notif_subscription action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <affected_record/>
+        <affected_table/>
+        <condition table="incident">123TEXTQUERY321=sddd<item endquery="false" field="123TEXTQUERY321" goto="false" newquery="false" operator="=" or="false" value="sddd"/>
+        </condition>
+        <devices>c93df9a2b92013006517ce7df7ee46cc</devices>
+        <filter/>
+        <name>Test</name>
+        <notification display_value="Location affected">8e0aa4580a0a0286007245685cbff26b</notification>
+        <schedule/>
+        <sys_class_name>sys_notif_subscription</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-04-08 12:23:02</sys_created_on>
+        <sys_id>ef6512dadbd55300ba2873278c9619e0</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Test</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_notif_subscription_ef6512dadbd55300ba2873278c9619e0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-04-08 12:23:05</sys_updated_on>
+        <user display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</user>
+    </sys_notif_subscription>
+</record_update>
